@@ -16,8 +16,8 @@ Estatisticas 💾
 ##
 
 <img src="https://raw.githubusercontent.com/MiguelNogueira45/MiguelNogueira45/output/snake.svg" alt="Snake animation" />
-
-
+                                                  
+  
 ###
 
 ##
