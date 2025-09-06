@@ -12,12 +12,7 @@ Estatisticas 💾
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-##
-
-<img src="https://raw.githubusercontent.com/MiguelNogueira45/MiguelNogueira45/output/snake.svg" alt="Snake animation" />
                                                   
-  
 ###
 
 ##
